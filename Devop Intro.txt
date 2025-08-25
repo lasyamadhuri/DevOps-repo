@@ -1,0 +1,20 @@
+                                                                                                                  Devop Intro
+DEVOP= DEVLOPMENT+OPERATIONS
+NOT A SOFTWARE NOR HARDWARE- JUST A METHOD
+It's a culture + set of practices + tools that help:
+  . Developers
+  . Operations
+-> Work together, instead  of working in silos(individual)
+WITHOUT DEVOPS - SHOULD  HAVE SPECIFIC TEAMS MANUALLY
+WITH - ONLY CODE APPLYING BY CODER- REMAINING ALL BY DEVOPS
+
+Real-time-example:
+ Building swiggy
+ The developer writes code to add "Track My Order"
+ Without DevOps: Developer gives code to Ops team ->they manually deploy -> bugs happen ->delays.
+ With DevOps: Code is automatically testes and deployed -> customers get updates faster and safety.
+
+DevOps Helps You:
+ . Release features faster
+ . Fix bugs quickly
+ . Automate repetitive tasks
