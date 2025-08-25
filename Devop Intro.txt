@@ -17,4 +17,5 @@ Real-time-example:
 DevOps Helps You:
  . Release features faster
  . Fix bugs quickly
- . Automate repetitive tasks
+ . Automate repetitive tasks(like server)
+
