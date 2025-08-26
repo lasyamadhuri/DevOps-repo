@@ -1,0 +1,53 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
+  <diagram name="Page-1" id="hwzeruIwv0JN7cvK0rXo">
+    <mxGraphModel dx="1042" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nUXD4O37VMqfGxLEM_bO-1" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="374" y="90" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nUXD4O37VMqfGxLEM_bO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nUXD4O37VMqfGxLEM_bO-5" target="nUXD4O37VMqfGxLEM_bO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUXD4O37VMqfGxLEM_bO-5" value="Browse Restaurants" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="334" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nUXD4O37VMqfGxLEM_bO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nUXD4O37VMqfGxLEM_bO-6" target="nUXD4O37VMqfGxLEM_bO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUXD4O37VMqfGxLEM_bO-6" value="Select Food Items" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="334" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nUXD4O37VMqfGxLEM_bO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nUXD4O37VMqfGxLEM_bO-7" target="nUXD4O37VMqfGxLEM_bO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUXD4O37VMqfGxLEM_bO-7" value="Place Order by doing Payment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="334" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nUXD4O37VMqfGxLEM_bO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nUXD4O37VMqfGxLEM_bO-8" target="nUXD4O37VMqfGxLEM_bO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUXD4O37VMqfGxLEM_bO-8" value="Order Confirmed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="334" y="540" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nUXD4O37VMqfGxLEM_bO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nUXD4O37VMqfGxLEM_bO-10" target="nUXD4O37VMqfGxLEM_bO-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUXD4O37VMqfGxLEM_bO-10" value="Delivery Agent Assigned" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="334" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nUXD4O37VMqfGxLEM_bO-11" value="Order has been picked by agent &amp;amp; devliered to the Customer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="334" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nUXD4O37VMqfGxLEM_bO-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nUXD4O37VMqfGxLEM_bO-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="394" y="180" as="sourcePoint" />
+            <mxPoint x="440" y="140" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
